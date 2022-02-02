@@ -1,0 +1,8 @@
+C:\Users\suleman khan\source\repos\MSKTraining\bin\Debug\MSKTraining.exe.config
+C:\Users\suleman khan\source\repos\MSKTraining\bin\Debug\MSKTraining.exe
+C:\Users\suleman khan\source\repos\MSKTraining\bin\Debug\MSKTraining.pdb
+C:\Users\suleman khan\source\repos\MSKTraining\obj\Debug\MSKTraining.csproj.AssemblyReference.cache
+C:\Users\suleman khan\source\repos\MSKTraining\obj\Debug\MSKTraining.csproj.SuggestedBindingRedirects.cache
+C:\Users\suleman khan\source\repos\MSKTraining\obj\Debug\MSKTraining.csproj.CoreCompileInputs.cache
+C:\Users\suleman khan\source\repos\MSKTraining\obj\Debug\MSKTraining.exe
+C:\Users\suleman khan\source\repos\MSKTraining\obj\Debug\MSKTraining.pdb
